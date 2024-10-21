@@ -1,0 +1,2 @@
+Prefix plugins/Mafft/example/
+Plugin Mafft inputfile /biorg/data/RNA/UMiami/FASTA/S12_R1.fasta outputfile output.txt
